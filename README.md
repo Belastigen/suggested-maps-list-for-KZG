@@ -1,5 +1,5 @@
 # suggested-maps-list-for-KZG
-list of maps I suggest adding to KZG bhop server. 
+List of maps difficult/long maps that aren't absolute cancer that I suggest adding to KZG bhop server. 
 Sorted roughly by map creator.
 
 This list is based off of maps from CS:S, and so I can't guarantee the availability of all maps within CS:GO
